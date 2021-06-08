@@ -1,0 +1,14 @@
+C:\Users\mateo\source\repos\xiaomi\xiaomi\bin\Debug\lmdb32.dll
+C:\Users\mateo\source\repos\xiaomi\xiaomi\bin\Debug\lmdb64.dll
+C:\Users\mateo\source\repos\xiaomi\xiaomi\bin\Debug\xiaomi.exe.config
+C:\Users\mateo\source\repos\xiaomi\xiaomi\bin\Debug\xiaomi.exe
+C:\Users\mateo\source\repos\xiaomi\xiaomi\bin\Debug\xiaomi.pdb
+C:\Users\mateo\source\repos\xiaomi\xiaomi\bin\Debug\Siaqodb.dll
+C:\Users\mateo\source\repos\xiaomi\xiaomi\bin\Debug\SiaqodbPortable.dll
+C:\Users\mateo\source\repos\xiaomi\xiaomi\bin\Debug\Siaqodb.xml
+C:\Users\mateo\source\repos\xiaomi\xiaomi\bin\Debug\SiaqodbPortable.xml
+C:\Users\mateo\source\repos\xiaomi\xiaomi\obj\Debug\xiaomi.csprojAssemblyReference.cache
+C:\Users\mateo\source\repos\xiaomi\xiaomi\obj\Debug\xiaomi.csproj.CoreCompileInputs.cache
+C:\Users\mateo\source\repos\xiaomi\xiaomi\obj\Debug\xiaomi.csproj.CopyComplete
+C:\Users\mateo\source\repos\xiaomi\xiaomi\obj\Debug\xiaomi.exe
+C:\Users\mateo\source\repos\xiaomi\xiaomi\obj\Debug\xiaomi.pdb
